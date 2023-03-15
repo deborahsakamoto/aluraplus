@@ -154,7 +154,7 @@ body{
 }
 
 .lista__link a:active{
-    color: pink;
+    color: red;
 }
 
 .container__botao:hover{
